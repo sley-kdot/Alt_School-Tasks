@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: red;
+    color: #f1f1f1;
+    font-family: "Arial", sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+}
+
+#status {
+    font-size: 2rem;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+
+#timer {
+    font-size: 4rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin: 20px 0;
+}
+
+button {
+    background-color: yellow;
+    color: black;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 50px;
+    font-size: 1rem;
+    cursor: pointer;
+    box-shadow: 4px 6px 0px rgba(0, 0, 0, 0.3);
+    transition: all 0.2 ease;
+}
+
+button:hover {
+    transform: translateY(-5px);
+    box-shadow: 6px 8px 0px rgba(0, 0, 0, 0.3);
+}
+
+button:active {
+    transform: translateY(5px);
+    box-shadow: 2px 3px 0px rgba(0, 0, 0, 0.3);
+}
