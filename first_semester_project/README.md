@@ -1,6 +1,6 @@
 # ALTSCHOOL OF ENGINEERING KARATU 2025 FIRST SEMESTER PROJECT EXAM
 
-# 🕒 Stopwatch App
+## 🕒 Stopwatch App
 
 A simple, beginner-friendly **Stopwatch Application** built using **HTML**, **CSS**, and **JavaScript**.  
 It allows users to start, stop, and reset time with a clean digital-clock display.
